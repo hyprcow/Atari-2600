@@ -1,10 +1,10 @@
+
+![banner](streetracer.jpg)
+
 # STREET RACER — Terminal Port
 
 > A terminal port of **Street Racer** (Atari 2600, 1977) — original by Larry Kaplan.
 > Runs entirely in your Linux terminal. No GUI. No dependencies beyond a C compiler and `aplay`.
-
-![banner](banner.gif)
-<!-- replace with your box art strip -->
 
 ---
 
@@ -77,7 +77,7 @@ The port started with a full disassembly of the 2600 ROM (`Street_Racer_NA.a26`,
 
 ## Credits
 
-**Port:** HYPRC0W (2026)
+**Port:** hyprc0w (2026)
 **Original game:** Larry Kaplan, Atari, 1977
 
 ---
